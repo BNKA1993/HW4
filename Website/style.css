@@ -1,0 +1,40 @@
+html {
+
+    background-image: url(Naked-Cake-Feature.jpg);
+    
+    background-repeat: no-repeat;
+    
+    background-position: center center;
+    
+    background-attachment: fixed;
+    
+    -webkit-background-size: cover;
+    
+    -moz-background-size: cover;
+    
+    -o-background-size: cover;
+    
+    background-size: cover;
+    
+    }
+    p {
+        text-align: center;
+    }
+    h1 {
+        text-align: center;
+        color: coral;
+    }
+    table, th, td {
+        border: 1px solid;
+        
+      }
+    table {
+        text-align: center;
+        width: 80px;
+        height: 70px;
+        
+    }
+    ul {
+        color: blueviolet;
+        font-size: 30px;
+    }
